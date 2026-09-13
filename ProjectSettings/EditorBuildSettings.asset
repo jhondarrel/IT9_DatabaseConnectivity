@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Bed.unity
+    guid: 9dd08ef3864762b45bbb6662559dde3d
+  - enabled: 1
+    path: Assets/Scenes/Inside.unity
+    guid: 5e5afbbf8bc1d75439945f2389e945e2
+  - enabled: 1
+    path: Assets/Scenes/Missing.unity
+    guid: dea2db4bf25395740a4558d7f67b4059
+  - enabled: 1
+    path: Assets/Scenes/Rooms.unity
+    guid: c873c359d5a4be74198a28d18eb9e0ec
+  - enabled: 1
+    path: Assets/Scenes/Rooms 1.unity
+    guid: bf7774be75686ea4da30b7c1412e2523
+  - enabled: 1
+    path: Assets/Scenes/enter.unity
+    guid: 2a271147b5bcb9a4ca3dee9cee455024
+  - enabled: 1
+    path: Assets/Scenes/Inside 1.unity
+    guid: 41d902a8f59380040a8f4fbe906b7fb8
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
