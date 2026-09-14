@@ -13,11 +13,23 @@ Pamana (Prototype)
 Pamana is a simple Unity 2D educational game where players explore Philippine history and culture through artifact information and quiz-based gameplay. The game saves the player ID, player name, level, pass status, score, and timestamp to the database. The game can also retrieve saved player data and display relevant information within the game.
 
 ## Tools Used
-
+- Unity (WebGL)
+- C#
+- Visual Studio Code
+- Firebase Realtime Database
+- GitHub Desktop
+  
 ## Database Used
+- Firebase Realtime Database
 
 ## Data Saved
-
+- Player ID
+- Player name
+- Password
+- Level reached
+- Score
+- Timestamp (Date and Time created)
+  
 ## How to Run
 
 ## Repository Access
